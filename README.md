@@ -9,6 +9,6 @@
 5. [`20 pts`] For a given race, which driver has the most wins and losses?
 6. [`10 pts`] Continue exploring the data by answering your own question.
 
-Commit your assignment to your individual classroom Github assignment-1 repo. Your code and git commits should follow the basic principles we discussed so far.
+Commit your assignment to your individual Github classroom repo. Your code and git commits should follow the basic principles we discussed so far.
 
 **Extra points for using PySpark!**
