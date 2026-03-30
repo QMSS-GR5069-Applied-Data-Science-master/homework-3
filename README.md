@@ -1,14 +1,23 @@
-# Homework #3
+# Homework #2
 
-**Instructions** Answer the following questions using F1 data on the AWS S3 utilizing Databricks. You can use Pandas, R or PySpark.
+**Instructions** Answer the following questions using F1 data on Databricks. Use PySpark. Ask any F1 questions on the #help-f1 channel in Slack or any clarifying question on the #homework-2 channel in Slack. Commit your assignment to your individual Github classroom repo. Your code and git commits should follow the best practices we have discussed so far. Points will be deducted each time you don't follow best practices.
 
-1. [`10 pts`] What was the average time each driver spent at the pit stop for each race?
-2. [`20 pts`] Rank the average time spent at the pit stop in order of who won each race
-3. [`20 pts`] Insert the missing code (e.g: ALO for Alonso) for drivers based on the 'drivers' dataset
-4. [`20 pts`] Who is the youngest and oldest driver for each race? Create a new column called “Age”
-5. [`20 pts`] For a given race, which driver has the most wins and losses?
+
+
+For every question below:
+* write in words the logic you followed to answer the question in a md cell,
+* then write the code uou used to arrive at the answer, and   
+* explain in words how your code carries out this purpose, referencing specific commands in your code and explaining what they do in an additional md cell.
+* **EXTRA CREDIT** for proposing/coding/describing alternative routes to answer the question.
+
+Answers that do not include these elements WILL NOT BE GRADED. 
+
+1. [`10 pts`] What was the average time each driver spent at the pit stop for each race? Provide also the minimum and maximum time spent at the pits on each race.
+2. [`20 pts`] Rank order by finishing position the average time spent at the pit stop in each race.
+3. [`20 pts`] Insert the missing code (e.g: ALO for Alonso) for drivers based on the 'drivers' dataset. Explain your logic.
+4. [`20 pts`] Who is the youngest and the oldest driver in each race? Create a new column called “Age”. Explain your definition of "age".
+5. [`20 pts`] At any given race, how many podiums does each driver have? create three new columns to show - at ay given race - the number of wins, the number of 2nd places, and the number of 3rd places for each driver
 6. [`10 pts`] Continue exploring the data by answering your own question.
 
-Commit your assignment to your individual Github classroom repo. Your code and git commits should follow the basic principles we discussed so far.
 
-**Extra points for using PySpark!**
+
