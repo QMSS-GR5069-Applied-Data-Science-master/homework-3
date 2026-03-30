@@ -12,11 +12,11 @@ For every question below:
 
 Answers that do not include these elements WILL NOT BE GRADED. 
 
-1. [`10 pts`] What was the average time each driver spent at the pit stop for each race? Provide also the minimum and maximum time spent at the pits on each race.
+1. [`10 pts`] What was the average time each driver spent at the pit stop for each race? Provide also the slowest and fastest pit stop in each race.
 2. [`20 pts`] Rank order by finishing position the average time spent at the pit stop in each race.
 3. [`20 pts`] Insert the missing code (e.g: ALO for Alonso) for drivers based on the 'drivers' dataset. Explain your logic.
 4. [`20 pts`] Who is the youngest and the oldest driver in each race? Create a new column called “Age”. Explain your definition of "age".
-5. [`20 pts`] At any given race, how many podiums does each driver have? create three new columns to show - at ay given race - the number of wins, the number of 2nd places, and the number of 3rd places for each driver
+5. [`20 pts`] At any given race, how many podiums does each driver have? create three new columns to show - on any given race - the number of wins, the number of 2nd places, and the number of 3rd places for each driver
 6. [`10 pts`] Continue exploring the data by answering your own question.
 
 
